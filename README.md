@@ -27,7 +27,7 @@ Clone this repository and set up the virtual environment:
 
 ```bash
 # 1. Clone the repository to your local machine
-git clone [https://github.com/YourUsername/Sharpe-Ratio-Analyzer.git](https://github.com/YourUsername/Sharpe-Ratio-Analyzer.git)
+git clone [https://github.com/ClaysonV/Sharpe-Ratio-Analyzer.git](https://github.com/ClaysonV/Sharpe-Ratio-Analyzer.git)
 cd Sharpe-Ratio-Analyzer
 
 # 2. Create a Python virtual environment
